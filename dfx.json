@@ -1,0 +1,16 @@
+{
+  "canisters": {
+    "Bio_nft_backend": {
+      "main": "src/Bio_nft_backend/main.mo",
+      "type": "motoko"
+    }
+  },
+  "defaults": {
+    "build": {
+      "args": "",
+      "packtool": ""
+    }
+  },
+  "output_env_file": ".env",
+  "version": 1
+}
